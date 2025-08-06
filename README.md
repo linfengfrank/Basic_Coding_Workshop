@@ -1,4 +1,4 @@
-# Basic_Coding_Workshop
+# Basic Coding Workshop
 
 Struggling with coding challenges? You're not alone — and we've got your back!
 We’re excited to invite you to our upcoming Basic Coding Workshop, specially designed to help you strengthen essential programming skills and boost your confidence.
