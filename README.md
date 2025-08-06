@@ -45,7 +45,7 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 
 ### Topics & Instructors
 
-**1. ECE Computing Primer **  
+**1. ECE Computing Primer**
 *Instructor: Neil Banerjee*  
 - Filesystem basics on Windows, Mac, and Linux  
 - Text editors vs IDEs (e.g., VS Code, PyCharm)  
