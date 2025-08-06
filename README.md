@@ -1,4 +1,4 @@
-# 🧠 Basic Coding Workshop
+<img width="263" height="53" alt="image" src="https://github.com/user-attachments/assets/f1b6dc07-e9dd-4570-94d4-e089d08fd601" /># 🧠 Basic Coding Workshop
 
 Struggling with coding challenges? You're not alone — and we've got your back!
 
@@ -45,7 +45,7 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 
 ### Topics & Instructors
 
-**1. Foundations of Programming Tools and Environments**  
+**1. Foundations of Programming Tools and Environments **  
 *Instructor: Neil Banerjee*  
 - Filesystem basics on Windows, Mac, and Linux  
 - Text editors vs IDEs (e.g., VS Code, PyCharm)  
