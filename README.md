@@ -19,7 +19,7 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 
 ### Topics & Instructors
 
-**1. How to Manage Packages in Anaconda**  
+**1. How to Manage Packages in Anaconda**(Session I-Topic 1-Python Package Management with Anaconda/) 
 *Instructor: Theivendiram Pranavan*  
 - Learn how to efficiently manage Python environments and dependencies using Anaconda.  
 - Participate in hands-on coding activities. (Recommended to install Anaconda beforehand.)
