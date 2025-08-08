@@ -14,7 +14,7 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 
 - **📅 Date:** 13 August  
 - **🕓 Time:** 4:00 PM – 6:00 PM  
-- **📍 Venue:** E1-06-08 (Capacity: 80)  
+- **📍 Venue:** Engineering Auditorium  
 - **🎯 Objective:** Helps bridge the gap from CS1010E to EE2211 and EE2213
 
 ### Topics & Instructors
