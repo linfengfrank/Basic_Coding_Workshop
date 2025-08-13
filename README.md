@@ -43,6 +43,25 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 - **📍 Venue:** EA-02-11 (Capacity: 72)  
 - **🎯 Objective:** Helps bridge the gap from CS1010E to EE2028 and EE2211
 
+---
+
+## ⚠️ Pre-Session Setup (Important!)
+
+Before attending, please **install the following in Visual Studio Code (VS Code):**
+
+1. **Jupyter Notebook Plugin** – for running `.ipynb` notebooks directly inside VS Code  
+2. **Python Extension** – for Python language support, debugging, etc.  
+
+**Installation Steps:**
+- Open **VS Code**
+- Go to the **Extensions Marketplace** (`Ctrl+Shift+X` on Windows/Linux or `Cmd+Shift+X` on Mac)
+- Search for and install:
+  - `Jupyter` (by Microsoft)
+  - `Python` (by Microsoft)
+- Verify that both extensions are enabled
+
+---
+
 ### Topics & Instructors
 
 **1. ECE Computing Primer**
@@ -55,7 +74,6 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 
 **2. Errors Are Your Friend, Not Your Enemy**
 *Instructors: Zhu Zikun and Yu Juezhao*  
-**Please install 'VS Code with Jupyter Notebook Plugin' first!**
 - How to read and understand error tracebacks  
 - Common Python errors: `NameError`, `TypeError`, `IndexError`  
 - Using errors to guide incremental code development  
