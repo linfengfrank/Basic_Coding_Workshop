@@ -53,7 +53,8 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 - Debugging techniques (with and without debuggers)  
 - Basic command line tools (cd, ls, cp, mv, etc.)
 
-**2. Errors Are Your Friend, Not Your Enemy**  
+**2. Errors Are Your Friend, Not Your Enemy**
+**Please install 'VS Code with Jupyter Notebook Plugin' first!**
 *Instructors: Zhu Zikun and Yu Juezhao*  
 - How to read and understand error tracebacks  
 - Common Python errors: `NameError`, `TypeError`, `IndexError`  
