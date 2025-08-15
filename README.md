@@ -95,7 +95,7 @@ Please take a moment to fill out our short survey.
 ![Survey QR Code](Survey/qr_code_session2.png)
 
 #### 🔗 Or click the link below
-[Take the Survey]([https://forms.office.com/r/82GGhUESxZ?origin=lprLink])
+[Take the Survey](https://forms.office.com/r/82GGhUESxZ?origin=lprLink)
 
 ## Feedback
 If you have any questions about the workshop, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
