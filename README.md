@@ -20,12 +20,12 @@ Whether you're just getting started or aiming to sharpen your practical coding a
 ### Topics & Instructors
 
 **1. How to Manage Packages in Anaconda**
-*Instructor: Theivendiram Pranavan*  
+*Instructor: Theivendiram Pranavan (pranat@nus.edu.sg)*  
 - Learn how to efficiently manage Python environments and dependencies using Anaconda.  
 - Participate in hands-on coding activities. (Recommended to install Anaconda beforehand.)
 
 **2. Overview of Microsoft Copilot**  
-*Instructor: Shao Yurui*  
+*Instructor: Shao Yurui (yurui@nus.edu.sg)*  
 - Introduction to Copilot features  
 - Hands-on coding activities with AI-assisted development
 
