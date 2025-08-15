@@ -85,7 +85,7 @@ Before attending, please **install the following in Visual Studio Code (VS Code)
 - Analyse and learn from programming error messages
 
 ## Feedback
-If you have any questions about the tutorials, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
+If you have any questions about the workshop, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
 
 ---
 
