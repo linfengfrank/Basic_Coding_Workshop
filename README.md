@@ -84,6 +84,9 @@ Before attending, please **install the following in Visual Studio Code (VS Code)
 - Apply essential debugging tools  
 - Analyse and learn from programming error messages
 
+## Feedback
+If you have any questions about the tutorials, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
+
 ---
 
 We look forward to seeing you there!  
