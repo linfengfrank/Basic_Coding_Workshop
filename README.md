@@ -70,7 +70,7 @@ Before attending, please **install the following in Visual Studio Code (VS Code)
 - Text editors vs IDEs (e.g., VS Code, PyCharm)  
 - How code runs: compiling vs interpreting  
 - Debugging techniques (with and without debuggers)  
-- Basic command line tools (cd, ls, cp, mv, etc.)
+<!-- - Basic command line tools (cd, ls, cp, mv, etc.) -->
 
 **2. Errors Are Your Friend, Not Your Enemy**
 *Instructors: Zhu Zikun and Yu Juezhao*  
