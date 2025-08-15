@@ -84,6 +84,8 @@ Before attending, please **install the following in Visual Studio Code (VS Code)
 - Apply essential debugging tools  
 - Analyse and learn from programming error messages
 
+---
+
 ### 📝 Feedback Survey
 
 We value your feedback!  
