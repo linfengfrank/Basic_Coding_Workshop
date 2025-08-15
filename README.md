@@ -84,6 +84,17 @@ Before attending, please **install the following in Visual Studio Code (VS Code)
 - Apply essential debugging tools  
 - Analyse and learn from programming error messages
 
+### 📝 Feedback Survey
+
+We value your feedback!  
+Please take a moment to fill out our short survey.
+
+#### 📱 Scan the QR Code
+![Survey QR Code](path/to/qr-code.png)
+
+#### 🔗 Or click the link below
+[Take the Survey]([https://example.com/survey](https://forms.office.com/r/82GGhUESxZ?origin=lprLink))
+
 ## Feedback
 If you have any questions about the workshop, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
 
